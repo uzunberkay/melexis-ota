@@ -1,5 +1,5 @@
 {
-  "version": "1.0.12",
-  "sha256": "0daa740ccb3e4464e0fe2c8b5a0af9df5fd9e6a8c5ba34ce73ac4d1debfc88e7",
+  "version": "1.0.13",
+  "sha256": "43d7fcc01730bda685a1108f81291ed66f4bc4c919883f651256ca57332ad44d",
   "url": "https://uzunberkay.github.io/melexis-ota/ota/esp32c3/prod/firmware.bin"
 }
